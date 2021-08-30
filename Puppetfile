@@ -1,3 +1,5 @@
 mod 'puppet-nginx', '3.2.0'
-mod 'puppetlabs-concat', '7.1.1'
-mod 'puppetlabs-stdlib', '8.0.0'
+mod 'puppetlabs-concat'
+mod 'puppetlabs-stdlib'
+mod 'damuelson/dockeragent'
+mod 'puppetlabs/docker'
